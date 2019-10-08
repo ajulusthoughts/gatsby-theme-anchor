@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.14",
-    "@mdx-js/react": "^1.0.21",
+    "@mdx-js/react": "^1.5.1",
     "@types/rebass": "^3.0.4",
     "@types/styled-components": "^4.1.18",
     "netlify-cms-backend-fs": "^0.4.4",
